@@ -1,9 +1,22 @@
 ## DrXploiter Portfolio
 ## Pentester/CTF-developer/programmer
 
-You can use the [editor on GitHub](https://github.com/DrXploiter/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+This is the beginning of a very beautiful webpage listing my exploration into the security realm that manly overlook. I shall post my THM, HTB, cybersec-lab and VM endeavours. Furthermore, I shall also post my tools:
+
+1. offensive tools
+2. defensive tools
+3. utilities
+4. pentesting reports
+
+
+
+
+
+
+
+
 
 ### Markdown
 
