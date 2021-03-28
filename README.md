@@ -1,6 +1,8 @@
 ## DrXploiter Portfolio
 ## Pentester/CTF-developer/programmer
 
+![alt text](https://raw.githubusercontent.com/DrXploiter/DrXploiter/main/badge.png)
+
 
 
 This is the beginning of a very beautiful webpage listing my exploration into the security realm that manly overlook. I shall post my THM, HTB, cybersec-lab and VM endeavours. Furthermore, I shall also post my tools:
