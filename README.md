@@ -1,4 +1,4 @@
-## DrXploiter (aka A.G.A) Portfolio
+## DrXploiter (aka AGA) Portfolio
 ## Pentester/CTF-developer/programmer
 
 ![alt text](https://raw.githubusercontent.com/DrXploiter/DrXploiter/main/badge.png)
